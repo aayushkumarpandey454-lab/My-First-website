@@ -1,0 +1,60 @@
+
+body {
+    
+    margin: 0;
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    height: 160vh;  
+    
+             
+}
+.Q {
+    
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: auto;
+    background-color: aquamarine; 
+    color: black;                 
+    width: 700px;                 
+    height: 200px;                  
+   
+    border: 2px solid #1e1c1c;       
+    border-radius: 15px;          
+    box-shadow: 10px 10px 30px rgb(242, 198, 205);
+    transition: all 0.3s ease; 
+    cursor: pointer;
+
+}
+.Q:hover{
+    background-color: aliceblue;
+    transform:scale(1.1);
+    box-shadow: 10px 10px 30px rgb(203, 220, 22)
+
+}
+img {
+    transform: rotate(0deg); 
+    mix-blend-mode: multiply;
+}
+ .BOR2{margin-top: -50px;
+    margin-left: 150px;
+    margin-right: auto;
+    margin-bottom: 100px;
+    background-color: aquamarine; 
+    color: black;                 
+    width: 700px;                 
+    height: 220px;                  
+   
+    border: 2px solid #1e1c1c;       
+    border-radius: 15px;          
+    box-shadow: 10px 10px 30px rgb(242, 198, 205);
+    transition: all 0.3s ease; 
+    cursor: pointer;
+}
+.BOR2:hover{
+    background-color: aliceblue;
+    transform:scale(1.1);
+    box-shadow: 10px 10px 30px rgb(203, 220, 22)
+
+}
+    
