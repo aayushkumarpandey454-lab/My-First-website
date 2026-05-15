@@ -26,7 +26,7 @@ header {
 }
 
 .hero-img:hover {
-    transform: rotate(5deg) scale(1.05);
+    transform:  scale(1.05);
     border-color: gold;
     box-shadow: 0 15px 30px #4d68eb;
 }
